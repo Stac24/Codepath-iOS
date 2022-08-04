@@ -20,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://recordit.co/l1CJqh8LQy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
