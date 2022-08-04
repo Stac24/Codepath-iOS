@@ -22,13 +22,11 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [Recordit](https://recordit.co/).
 
-## Notes
 
-Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Stephanie Cox]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
